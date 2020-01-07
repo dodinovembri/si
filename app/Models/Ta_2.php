@@ -1,0 +1,9 @@
+<?php namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Ta_2 extends Model {
+
+	//
+
+}
